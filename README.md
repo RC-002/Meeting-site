@@ -1,1 +1,2 @@
-Django Meetups
+# Meetups
+## Connecting NGOs with volunteers
